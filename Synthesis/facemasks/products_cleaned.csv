@@ -1,28 +1,28 @@
-,product_id,product_name,product_price
-0,103205,"Hwipure, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",2.95
-1,101774,"HIGUARD, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",2.95
-2,101955,"SunJoy, KN95, Professional Protective Disposable Face Mask, 10 Pack",8.86
-3,103838,"Lozperi, Copper Mask, Adult, Black, 1 Mask",6.85
-4,102734,"Zidian, Disposable Protective Mask, 50 Pack",15.35
-5,100837,"La Hauteur, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",5.61
-6,100840,"YJ Corporation, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, for Kids, 1 Mask",3.93
-7,103204,"Hwipure, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask,  25 Masks",50.19
-8,103840,"Lozperi, Copper Mask, Adult, Gray, 1 Mask",6.85
-9,103743,"Puritas, 10 Days Mask, Large, 3 Pack",6.61
-10,102522,"Dr. Puri, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 20 Masks",47.24
-11,103839,"Lozperi, Copper Mask, Adult, Dot, 1 Count",6.85
-12,104023,"Kosette, PM 2.5 Replaceable Filter, 24 Filters",5.91
-13,101692,"Kitsch, 100% Cotton Reusable Face Masks, Neutral, 3 Pack",17.72
-14,100839,"One Fine Day, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",4.49
-15,100237,"Kitsch, 100% Cotton Reuseable Face Masks, Leopard, 3 Pack",17.72
-16,103841,"Lozperi, Copper Mask, Kids, Black, 1 Mask",6.85
-17,99830,"Kosette, Nano Reusable Face Protection Mask, Medium, 1 Mask",22.44
-18,104022,"Kosette, Fashion Mask with Filter Pocket,  3 Masks",11.81
-19,99829,"Kosette, Nano Reusable Face Protection Mask, Large, 1 Mask",22.44
-20,103842,"Lozperi, Copper Mask, Kids, Gray, 1 Count",6.85
-21,102455,"Now Foods, Face Mask, Grey, S-M, 1 Mask",2.95
-22,101691,"Kitsch, 100% Cotton Reuseable Face Masks, Blush, 3 Pack",17.72
-23,100541,"Tony Moly, CTT KN95 Respirator Mask, 5 Count",26.57
-24,100099,"Luseta Beauty, Disposable Protection Face Mask, 50 Pack",49.61
-25,100234,"Luseta Beauty, Disposable Protection Face Mask, 50 Pack",44.31
-26,101029,"Landsberg, 3 Ply Disposable Protective Face Mask, 50 Pack",36.54
+,product_id,product_name,product_price,size,posting_date
+19,99829,"Kosette, Nano Reusable Face Protection Mask, Large, 1 Mask",22.44,1,2020-05-12 19:56:28.293 
+17,99830,"Kosette, Nano Reusable Face Protection Mask, Medium, 1 Mask",22.44,1,2020-05-12 13:35:10.337 
+24,100099,"Luseta Beauty, Disposable Protection Face Mask, 50 Pack",49.61,50,2020-05-17 07:37:56.32 
+25,100234,"Luseta Beauty, Disposable Protection Face Mask, 50 Pack",44.31,50,2020-06-03 20:54:06.572 
+15,100237,"Kitsch, 100% Cotton Reuseable Face Masks, Leopard, 3 Pack",17.72,3,2020-06-25 20:28:26.343 
+23,100541,"Tony Moly, CTT KN95 Respirator Mask, 5 Count",26.57,95,2020-07-06 21:18:21.071 
+5,100837,"La Hauteur, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",5.61,1,2020-07-15 12:20:57.262 
+14,100839,"One Fine Day, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",4.49,1,2020-07-19 12:35:43.757 
+6,100840,"YJ Corporation, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, for Kids, 1 Mask",3.93,1,2020-08-10 20:52:17.422 
+26,101029,"Landsberg, 3 Ply Disposable Protective Face Mask, 50 Pack",36.54,3,2020-07-18 18:51:38.362 
+22,101691,"Kitsch, 100% Cotton Reuseable Face Masks, Blush, 3 Pack",17.72,3,2020-09-10 10:25:20.73 
+13,101692,"Kitsch, 100% Cotton Reusable Face Masks, Neutral, 3 Pack",17.72,3,2020-09-14 13:27:53.364 
+1,101774,"HIGUARD, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",2.95,1,2020-09-25 05:52:19.606 
+2,101955,"SunJoy, KN95, Professional Protective Disposable Face Mask, 10 Pack",8.86,10,2020-09-11 10:26:56.378 
+21,102455,"Now Foods, Face Mask, Grey, S-M, 1 Mask",2.95,1,2020-10-27 15:02:06.885 
+10,102522,"Dr. Puri, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 20 Masks",47.24,20,2020-11-03 23:06:45.445 
+4,102734,"Zidian, Disposable Protective Mask, 50 Pack",15.35,50,2020-11-08 13:00:39.328 
+7,103204,"Hwipure, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask,  25 Masks",50.19,25,2020-12-12 08:40:22.562 
+0,103205,"Hwipure, Disposable KF94 ( N95 / KN95/ FFP2 ) Mask, 1 Mask",2.95,1,2020-12-21 20:42:17.796 
+9,103743,"Puritas, 10 Days Mask, Large, 3 Pack",6.61,10,2021-01-06 10:50:09.492 
+3,103838,"Lozperi, Copper Mask, Adult, Black, 1 Mask",6.85,1,2021-01-16 06:18:18.45 
+11,103839,"Lozperi, Copper Mask, Adult, Dot, 1 Count",6.85,1,2021-01-20 22:36:25.395 
+8,103840,"Lozperi, Copper Mask, Adult, Gray, 1 Mask",6.85,1,2021-01-16 06:18:59.962 
+16,103841,"Lozperi, Copper Mask, Kids, Black, 1 Mask",6.85,1,2021-01-17 18:21:07.676 
+20,103842,"Lozperi, Copper Mask, Kids, Gray, 1 Count",6.85,1,2021-01-18 13:44:56.252 
+18,104022,"Kosette, Fashion Mask with Filter Pocket,  3 Masks",11.81,3,2021-01-27 00:38:24.6 
+12,104023,"Kosette, PM 2.5 Replaceable Filter, 24 Filters",5.91,5,2021-02-01 15:54:22.06 
